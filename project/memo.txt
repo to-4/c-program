@@ -1,0 +1,11 @@
+extension install
+
+1. C/C++ Extension Pack
+2. Code Runner
+
+
+how to compile
+
+  1. select the target c source file.
+  2. Right-click and select [Run Code], 
+      or press [Ctrl] + [Alt] + [N].
